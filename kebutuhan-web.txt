@@ -5,3 +5,4 @@ KEBUTUHAN UNTUK DI DALAM WEBSITE LOKER IT
 - Pada halaman login harus ada username dan password untuk masuk bisa melamar lowongan kerja di web loker it
 - Pada halaman register harus ada username, password, nama lengkap, alamat, email, no hp
 - Pada halaman user harus memiliki dashboard untuk melihat apa saja yang sudah di apply pada loker tersebut
+- membahkan halaman untuk menambahkan user
