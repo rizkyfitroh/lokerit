@@ -1,0 +1,5 @@
+KEBUTUHAN UNTUK DI DALAM WEBSITE LOKER IT
+- Memiliki halaman admin dan user
+- Memiliki halaman login dan register
+- Pada halaman admin harus memili dashboard yang diantaranya ada Profile, Lihat loker, Tambah loker, Hapus loker
+- Pada halaman user (home) harus menampilkan semua lowongan yang telah ditambahkan oleh admin
