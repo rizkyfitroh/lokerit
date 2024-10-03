@@ -6,3 +6,4 @@ KEBUTUHAN UNTUK DI DALAM WEBSITE LOKER IT
 - Pada halaman register harus ada username, password, nama lengkap, alamat, email, no hp
 - Pada halaman user harus memiliki dashboard untuk melihat apa saja yang sudah di apply pada loker tersebut
 - membahkan halaman untuk menambahkan user
+- DELETE SEMUA PROGRAM
